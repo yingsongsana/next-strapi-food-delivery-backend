@@ -31,8 +31,8 @@
       "type": "decimal"
     },
     "restaurant": {
-      "model": "restaurant",
-      "via": "dishes"
+      "via": "dishes",
+      "model": "restaurant"
     }
   }
 }
